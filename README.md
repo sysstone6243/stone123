@@ -1,0 +1,2 @@
+# stone123
+testnet
